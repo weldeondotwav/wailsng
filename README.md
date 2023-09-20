@@ -2,7 +2,7 @@
 
 ## About
 
-About your template
+Angular 16.2.2 template for wails
 
 ## Live Development
 
